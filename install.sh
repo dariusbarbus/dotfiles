@@ -59,6 +59,13 @@ echo
 echo
 
 echo "*******************************"
+echo "*Installing Spotify*"
+echo "*******************************"
+sudo snap install spotify
+echo
+echo
+
+echo "*******************************"
 echo "*Installing Visual Studio Code*"
 echo "*******************************"
 sudo snap install code --classic
