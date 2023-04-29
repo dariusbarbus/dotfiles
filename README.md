@@ -37,6 +37,6 @@ After installation is completed, follow this steps.
 - Download from [Zafiro Icons Dark](https://www.gnome-look.org/p/1209330).
 - Create directory `.icons` in home.
 - Copy/Move the untared file from downloads to `.icons`
-- Use the following one-line command: `mkdir .icons && cd Downloads && tar -xf Zafiro-Icons-Dark.tar.xz && cd .. && cp -r Downloads/Zafiro-Icons-Dark .themes`
+- Use the following one-line command: `mkdir .icons && cd Downloads && tar -xf Zafiro-Icons-Dark.tar.xz && cd .. && cp -r Downloads/Zafiro-Icons-Dark .icons`
 
 **Restart**
