@@ -32,7 +32,7 @@ echo "**********************"
 git clone https://github.com/ohmyzsh/ohmyzsh.git
 mv ~/ohmyzsh ~/.oh-my-zsh
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
-sudo chsh -s $(which zsh)
+chsh -s $(which zsh)
 echo
 echo
 
@@ -69,6 +69,13 @@ echo "**********************"
 echo "*Installing Bitwarden*"
 echo "**********************"
 sudo snap install bitwarden
+echo
+echo
+
+echo "**********************"
+echo "*Installing Spotify*"
+echo "**********************"
+sudo snap install spotify
 echo
 echo
 
