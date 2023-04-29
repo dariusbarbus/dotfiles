@@ -59,16 +59,16 @@ echo
 echo
 
 echo "*******************************"
-echo "*Installing Spotify*"
-echo "*******************************"
-sudo snap install spotify
-echo
-echo
-
-echo "*******************************"
 echo "*Installing Visual Studio Code*"
 echo "*******************************"
 sudo snap install code --classic
+echo
+echo
+
+echo "**********************"
+echo "*Installing Discord*"
+echo "**********************"
+sudo snap install discord 
 echo
 echo
 
@@ -79,9 +79,9 @@ sudo snap install bitwarden
 echo
 echo
 
-echo "**********************"
+echo "********************"
 echo "*Installing Spotify*"
-echo "**********************"
+echo "********************"
 sudo snap install spotify
 echo
 echo
@@ -115,4 +115,5 @@ ln -s ~/.dotfiles/.config/kitty ~/.config/
 mkdir ~/.local/share/fonts
 cp -r ~/.dotfiles/.local/share/fonts ~/.local/share/
 
+echo
 echo Done
