@@ -1,7 +1,6 @@
 # TO DO
-# check zsh plug ins install
-# add symblic links
 # create log of process
+# add dotfiles repo
 
 echo "*******************"
 echo "* App Instalation *"
