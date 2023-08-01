@@ -101,3 +101,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias calc="~/.bini/calc"
 alias cl="clear"
+alias hugo="cd ~/code/projects/web/dariusbarbus/; hugo server"
