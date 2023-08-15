@@ -1,6 +1,4 @@
-# TO DO
-# create log of process
-# add dotfiles repo
+# This script is unfinished
 
 echo "*******************"
 echo "* App Instalation *"

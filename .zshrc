@@ -96,9 +96,7 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
 alias calc="~/.bini/calc"
 alias cl="clear"
-alias hugo="cd ~/code/projects/web/dariusbarbus/; hugo server"
+alias webprev="cd ~/code/projects/web/dariusbarbus/; hugo server"
+alias shutdown="shutdown -h now"
